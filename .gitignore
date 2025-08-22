@@ -1,0 +1,11 @@
+# Ignore compiled files
+*.exe      # Windows executables
+*.out      # Linux/macOS executables
+*.o        # object files
+*.obj      # object files (Windows)
+*.a        # static libraries
+*.so       # shared libraries (Linux/macOS)
+*.dll      # shared libraries (Windows)
+
+# Optional: ignore build folders
+/build/
